@@ -1,0 +1,8 @@
+#container {
+	display: flex;
+	flex-flow: row wrap; /* Allows the items to wrap into multiple rows */
+	box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+    margin-right: auto;
+    margin-left: auto;
+     max-width: 1050px;
+}
